@@ -7,35 +7,25 @@
       "geometry": {
         "type": "Polygon",
         "coordinates": [[
-
-          /* Západ a severozápad (Haná) */
           [17.5477461, 49.4694225],  /* Pavlovice u Přerova */ 
           [17.4713000, 49.4830000],  /* Domaželice u Přerova (odhad defin. bodu) */
           [17.6213208, 49.4713483],  /* Oprostovice */
-
-          /* Kroměřížsko → Chřiby */
           [17.3931200, 49.2978500],  /* Kroměříž */
           [17.3751730, 49.2376930],  /* Zlámanka (Kroměříž) */
           [17.3397900, 49.1774500],  /* Jeřabčina skála (Chřiby) */
           [17.3698314, 49.0842706],  /* Tupesy */
           [17.3941700, 49.1055600],  /* Velehrad */
-
-          /* Jih (Slovácko) */
           [17.4069300, 49.0453800],  /* Kostelany nad Moravou */
           [17.4701060, 49.0449890],  /* Kunovice */
           [17.6476000, 48.9747000],  /* Nivnice */
           [17.7175210, 48.9880140],  /* Bánov */
           [17.8149000, 49.0386000],  /* Bojkovice */
-
-          /* Východ a severovýchod (Klobucko → Vsetínsko) */
           [17.9113580, 49.0661390],  /* Rokytnice (okres Zlín) */
           [18.0581703, 49.1881714],  /* Horní Lideč */
           [18.0054200, 49.1599300],  /* Tichov (u VK) */
           [18.0075630, 49.1409030],  /* Valašské Klobouky */
           [17.9989944, 49.3527669],  /* Horní Jasenka (Vsetín) */
           [17.9502000, 49.3835600],  /* Jablůnka */
-
-          /* Zpět přes severní oblouk (Hostýnské vrchy → Přerovsko) */
           [17.7512150, 49.4303244],  /* Osíčko */
           [17.6213208, 49.4713483],  /* Oprostovice (mezibod pro hladkost) */
           [17.5477461, 49.4694225]   /* Pavlovice u Přerova (uzavření) */
