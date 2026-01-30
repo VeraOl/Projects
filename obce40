@@ -3,9 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "name": "obvod_40km"
-      },
+      "properties": { "name": "circle_40km_KNTB", "radius_km": 40.0, "center": [17.694025, 49.230091] },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
